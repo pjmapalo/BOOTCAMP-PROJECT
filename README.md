@@ -1,10 +1,10 @@
 
-# GLOBAL SERVICE AGREEMENTS PERFORMANCE DATASHEET # 
+# GLOBAL SERVICE AGREEMENTS PERFORMANCE REVIEW # 
 Our company does not have a clear way to see which service agreements make money and which ones create financial risk. This lack of visibility makes it harder for teams to make informed decisions about pricing, renewals, and where to focus resources. 
 
 ## PROBLEM STATEMENT
 Which Region has service agreements that are profitable, which are losing money, and where should we take action.
-Which agreements are about to expire and require customer focus.
+Which agreements are about to expire and mostly which require customer focus.
 
 
 ## BUSINESS OVERVIEW
@@ -46,17 +46,44 @@ Required Cleaning Steps (Excel Table)
 
 ## INSIGHTS AND RECOMMENDATIONS
 
-1. FINANCIAL PERFORMANCE INSIGHTS
   Highest Total Revenue – “PILBARA IRON (Australia)”
 • Total Revenue: 310,908,247 SEK
 • Total Profit: 81,406,368 SEK
 • Margin: ~26%
 *It is profitable, stable, and should be prioritized for retention and long-term strategic partnership.
 
- 2. Highest Total Profit – “SISHEN (AFRICA)”
+  Highest Total Profit – “SISHEN (AFRICA)”
 • Total Profit: 81,606,745 SEK
 • Total Revenue: 124,411,099 SEK
 • Margin: ~66% (extremely high)
 *This reflects excellent cost control and operational efficiency.
 
+ Worst‑Performing Service Agreements
+ Most Negative Profit – “AGNICO EAGLE MINES LIMITED”
+• Total Revenue: 36,426,461 SEK
+• Total Profit: –17,749,126 SEK
+
+Other Significant Loss-Makers Globally
+
+AGNICO EAGLE MINES LIMITED – –17.7M
+VALE SALOBO – –6.06M
+SOMINCOR – –5.87M
+JCHX – –5.76M
+BARRICK LUMWANA – –4.79M
+NFCA SEOB – –3.94M
+HINDUSTAN ZINC‑RD – –3.37M
+ZHOMART – –2.96M
+CLIMAX – –2.73M
+ZHAYSAN – –2.73M
+
+*Potential issues with pricing, operational cost / cost overruns, check contract terms, or execution efficiency
+ These contracts should be investigated *
+
+
+## CONTRACT AGGREEMNT STATUS 
+
+> 15% of all contracts are loss‑making
+  (35 out of 238 agreements have negative profit)
+> 57% (135) expired and will expire within 30 days
+> 64% (151) will expire within 60 days
 
