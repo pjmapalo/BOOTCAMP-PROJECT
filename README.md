@@ -3,9 +3,7 @@
 Our company does not have a clear way to see which service agreements make money and which ones create financial risk. This lack of visibility makes it harder for teams to make informed decisions about pricing, renewals, and where to focus resources. 
 
 ## PROBLEM STATEMENT
-Which Region has service agreements that are profitable, which are losing money, and where should we take action.
-Which agreements are about to expire and mostly which require customer focus.
-
+ Provide a regional profitability view of service agreements to determine where our company is winning, where is it losing money, and what actions are needed. Additionally, identify agreements that are nearing expiration and create a prioritized list of those requiring proactive customer focus
 
 ## BUSINESS OVERVIEW
 
@@ -27,7 +25,7 @@ Which agreements are about to expire and mostly which require customer focus.
 
 <img width="613" height="321" alt="image" src="https://github.com/user-attachments/assets/b72e3e89-ff7e-4885-9492-6077f4bf3f13" />
 
-##EXPIRING SERVICE CONTRACTS
+## EXPIRED/EXPIRING SERVICE CONTRACTS
 
 <img width="613" height="321" alt="image" src="https://github.com/user-attachments/assets/832964ad-a427-455f-8d21-18f5367adbfe" />
 
@@ -36,12 +34,12 @@ Which agreements are about to expire and mostly which require customer focus.
 <img width="613" height="321" alt="image" src="https://github.com/user-attachments/assets/01b51eb8-d115-4056-9f02-53dba4e2d2d8" />
 
 ## METHODOLOGY
-Required Cleaning Steps (Excel Table)
-1. Remove non‑data rows
+1. Remove non‑data rows in excel 
 2. Promote headers
 3. Fix data types
 4. Rename columns for clarity
-5. Create new fields
+5. Standardize text fields
+6. Create new fields
    Power Bi / Dax Measure (Total Revenue, Cost and Profit, Expiring Agreements Coun, Filter Top N)
 
 ## INSIGHTS AND RECOMMENDATIONS
@@ -50,7 +48,7 @@ Required Cleaning Steps (Excel Table)
 • Total Revenue: 310,908,247 SEK
 • Total Profit: 81,406,368 SEK
 • Margin: ~26%
-*It is profitable, stable, and should be prioritized for retention and long-term strategic partnership.
+*Why matter: It is profitable, stable, and should be prioritized for retention and long-term strategic partnership.
 
   Highest Total Profit – “SISHEN (AFRICA)”
 • Total Profit: 81,606,745 SEK
@@ -80,10 +78,17 @@ ZHAYSAN – –2.73M
  These contracts should be investigated *
 
 
-## CONTRACT AGGREEMNT STATUS 
+## CONTRACT AGGREEMENTS STATUS 
 
 > 15% of all contracts are loss‑making
   (35 out of 238 agreements have negative profit)
+
 > 57% (135) expired and will expire within 30 days
+
 > 64% (151) will expire within 60 days
 
+> Zero-revenue contracts with high costs signal potential data or billing issues
+
+This presents a significant renewal risk, as expiring or expired contracts may lead to revenue loss or service delivery challenges if not proactively managed. By identifying agreements with negative or near‑zero days remaining, we can prioritize customer outreach and secure renewals more effectively.
+
+Together, these findings give us clearer visibility into where the business is performing well, where we are losing money, and where immediate action is required—whether through contract renegotiation, cost correction, billing review, or renewal engagement. Strengthening these areas will improve profitability, reduce financial exposure, and support better strategic decision‑making across our service portfolio
