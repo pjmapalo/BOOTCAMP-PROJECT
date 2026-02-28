@@ -7,7 +7,7 @@ Our company does not have a clear way to see which service agreements make money
 
 ## BUSINESS OVERVIEW
 
-<img width="361" height="50" alt="image" src="https://github.com/user-attachments/assets/c3b4bf89-af71-4e29-ae5b-4f3aa5ce909a" />
+<img width="486" height="307" alt="image" src="https://github.com/user-attachments/assets/c3b4bf89-af71-4e29-ae5b-4f3aa5ce909a" />
 
 <img width="486" height="307" alt="image" src="https://github.com/user-attachments/assets/7e994ed6-d670-450e-b166-42bd91659e4e" />
 
