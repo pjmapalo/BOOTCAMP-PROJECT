@@ -31,59 +31,18 @@ Which agreements are about to expire and require customer contact.
 
 <img width="613" height="321" alt="image" src="https://github.com/user-attachments/assets/832964ad-a427-455f-8d21-18f5367adbfe" />
 
+<img width="613" height="321" alt="image" src="https://github.com/user-attachments/assets/f2003e07-a0b8-4ba9-9963-152459e5bb8e" />
 
-
-
-
+<img width="613" height="321" alt="image" src="https://github.com/user-attachments/assets/01b51eb8-d115-4056-9f02-53dba4e2d2d8" />
 
 ## METHODOLOGY
+Required Cleaning Steps (Excel Table)
+1. Remove non‑data rows
+2. Promote headers
+3. Fix data types
+4. Rename columns for clarity
+5. Create new fields
+   Power Bi / Dax Measure (Total Revenue, Cost and Profit, Expiring Agreements Coun, Filter Top N)
 
 
 
-
-
-
-
-## INSIGHTS AND RECOMMENDATIONS**
- 1. Highest Total Revenue – “PILBARA IRON”
-• Total Revenue: 310,908,247 SEK
-• Total Profit: 81,406,368 SEK
-• Margin: ~26% vs total revenue?
- 2. Highest Total Profit – “SISHEN”
-• Total Profit: 81,606,745 SEK
-• Total Revenue: 124,411,099 SEK
-• Margin: ~66% (extremely high) vs total profit?
-3. Worst‑Performing Service Agreements
- A. Most Negative Profit – “AGNICO EAGLE MINES LIMITED”
-• Total Revenue: 36,426,461 SEK
-• Total Profit: –17,749,126 SEK
-> what are the caused / effect on revenue
-> what are to cut?
-**Top 10 worst performers (by profit)**:
-AGNICO EAGLE MINES LIMITED – –17.7M
-VALE SALOBO – –6.06M
-SOMINCOR – –5.87M
-JCHX – –5.76M
-BARRICK LUMWANA – –4.79M
-NFCA SEOB – –3.94M
-HINDUSTAN ZINC‑RD – –3.37M
-ZHOMART – –2.96M
-CLIMAX – –2.73M
-ZHAYSAN – –2.73M
-
-**Most Concerning Anomaly – “BNV SAN GABRIEL”**
-• Total Revenue: 0 SEK
-• Total Profit: –846,400 SEK
-• Costs: 846,400 SEK
-
-**Maintain and Protect**:
-PILBARA IRON → Key revenue contract
-SISHEN → Strategic high‑margin contract
-
-**Investigate Immediately**:
-AGNICO EAGLE MINES LIMITED
-VALE SALOBO, SOMINCOR, JCHX, BARRICK LUMWANA
-
-**Audit for Data or Billing Errors**:
-BNV SAN GABRIEL
-Other zero‑revenue contracts
