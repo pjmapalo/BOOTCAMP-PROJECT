@@ -3,8 +3,8 @@
 Our company does not have a clear way to see which service agreements make money and which ones create financial risk. This lack of visibility makes it harder for teams to make informed decisions about pricing, renewals, and where to focus resources. 
 
 ## PROBLEM STATEMENT
-Which Region has service agreements are profitable, which are losing money, and where should we take action.
-Which agreements are about to expire and require customer contact.
+Which Region has service agreements that are profitable, which are losing money, and where should we take action.
+Which agreements are about to expire and require customer focus.
 
 
 ## BUSINESS OVERVIEW
@@ -44,5 +44,19 @@ Required Cleaning Steps (Excel Table)
 5. Create new fields
    Power Bi / Dax Measure (Total Revenue, Cost and Profit, Expiring Agreements Coun, Filter Top N)
 
+## INSIGHTS AND RECOMMENDATIONS
+
+1. FINANCIAL PERFORMANCE INSIGHTS
+  Highest Total Revenue – “PILBARA IRON (Australia)”
+• Total Revenue: 310,908,247 SEK
+• Total Profit: 81,406,368 SEK
+• Margin: ~26%
+*It is profitable, stable, and should be prioritized for retention and long-term strategic partnership.
+
+ 2. Highest Total Profit – “SISHEN (AFRICA)”
+• Total Profit: 81,606,745 SEK
+• Total Revenue: 124,411,099 SEK
+• Margin: ~66% (extremely high)
+*This reflects excellent cost control and operational efficiency.
 
 
