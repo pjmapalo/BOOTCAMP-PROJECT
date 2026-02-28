@@ -48,12 +48,14 @@ Our company does not have a clear way to see which service agreements make money
 • Total Revenue: 310,908,247 SEK
 • Total Profit: 81,406,368 SEK
 • Margin: ~26%
-*Why matter: It is profitable, stable, and should be prioritized for retention and long-term strategic partnership.
+
 
   Highest Total Profit – “SISHEN (AFRICA)”
 • Total Profit: 81,606,745 SEK
 • Total Revenue: 124,411,099 SEK
 • Margin: ~66% (extremely high)
+
+*Why matter: It is profitable, stable, and should be prioritized for retention and long-term strategic partnership.
 *This reflects excellent cost control and operational efficiency.
 
  Worst‑Performing Service Agreements
